@@ -18,4 +18,3 @@ Sou estudante de Back-End | FullStack.<br>Formado no curso: Superior de Tecnolog
   </div>
 </div>
 
-![Snake animation](https://github.com/Gabriel-D-EV/Gabriel-D-EV/blob/output/github-contribution-grid-snake.svg)
