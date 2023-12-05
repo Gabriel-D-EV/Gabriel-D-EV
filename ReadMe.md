@@ -1,6 +1,6 @@
 ## 💫 Salve Devs..  Gabriel aqui!!
 
-Sou estudante de Back-End | FullStack.<br>Formado no curso: Superior de Tecnologia em Gestão da TI- UNISA<br>Sou Cozinheiro e estou em transição de carreira<br>Estou a Procura de uma oportunidade na área de programação
+Sou estudante de Back-End | FullStack.<br>Formado no curso: Superior de Tecnologia em Gestão da TI- UNISA<br>Sou Cozinheiro e estou em transição de carreira<br>Estou em constante aprendizado<br>Estou a Procura de uma oportunidade na área de programação
 
 
 
