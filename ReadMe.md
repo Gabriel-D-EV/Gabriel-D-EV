@@ -1,5 +1,6 @@
-<img src="https://github.com/Gabriel-D-EV/Gabriel-D-EV/blob/main/bg-gh.png?raw=true" width="100%" height="auto">
 ## 💫 Salve Devs..  Gabriel aqui!!
+<img src="https://github.com/Gabriel-D-EV/Gabriel-D-EV/blob/main/bg-gh.png?raw=true" width="100%" height="auto">
+
 
 Sou estudante de Back-End | FullStack.<br>Formado no curso: Superior de Tecnologia em Gestão da TI- UNISA<br>Sou Cozinheiro e estou em transição de carreira<br>Estou em constante aprendizado<br>Estou a Procura de uma oportunidade na área de programação
 
