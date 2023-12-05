@@ -17,3 +17,5 @@ Sou estudante de Back-End | FullStack.<br>Formado no curso: Superior de Tecnolog
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-D-EV&layout=compact&langs_count=16&theme=great-gatsby"/>
   </div>
 </div>
+
+![Snake animation](https://github.com/Gabriel-D-EV/Gabriel-D-EV/blob/output/github-contribution-grid-snake.svg)
