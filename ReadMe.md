@@ -1,4 +1,4 @@
-## 💫 Salve Devs..  Gabriel aqui!!
+## 💫 Salve Devs..
 <img src="https://github.com/Gabriel-D-EV/Gabriel-D-EV/blob/main/bg-1.png?raw=true" width="100%" height="auto">
 
 
