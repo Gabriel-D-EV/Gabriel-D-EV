@@ -1,4 +1,4 @@
-##  Salve Devs...
+## 💻 Salve Devs...
 
 <img src="https://github.com/Gabriel-D-EV/Gabriel-D-EV/blob/main/bg-1.png?raw=true" width="100%" height="auto">
 
@@ -6,7 +6,7 @@
 -Sou Cozinheiro e estou em transição de carreira<br>-Sou estudante de Back-End | FullStack.<br>-Formado no curso: Superior de Tecnologia em Gestão da TI- UNISA<br>-Estou em constante aprendizado<br>-Estou a Procura de uma oportunidade na área de programação
 
 
-## 🌐 Socials:
+## 🛜 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/wTXSh8Gyrg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-silva-d-ev/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/donquixote_games) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Gabriel_S_Dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCk1yxwX6zPEdWhfZoffbVIw) 
 
 # 💻 Tech Stack:
