@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 
 <div style="display: inline_block"><br>
-  <img height="200em" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Gabriel-D-EV&theme=cobalt&mode=weekly" />
+  <img height="200em" align="center"  src="!https://github-readme-stats.vercel.app/api?username=GabrielSilva&show_icons=true&theme=dracula" />
    
   <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-D-EV&layout=compact&langs_count=16&theme=cobalt"/>
 </div>
