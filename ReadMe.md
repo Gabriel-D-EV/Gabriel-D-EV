@@ -16,5 +16,5 @@
 <div style="display: inline_block"><br>
   <img height="200em" align="center"  src="!https://github-readme-stats.vercel.app/api?username=Gabriel-D-EV&show_icons=true&theme=dracula" />
    
-  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-D-EV&layout=compact&langs_count=16&theme=cobalt"/>
+  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-D-EV&layout=compact&langs_count=16&theme=dracula"/>
 </div>
