@@ -18,3 +18,7 @@
    
   <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-D-EV&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+</br>
+<p align="center"> <img align="center" src="https://profile-counter.glitch.me/Gabriel-D-EV/count.svg"/> </p>
+
+
